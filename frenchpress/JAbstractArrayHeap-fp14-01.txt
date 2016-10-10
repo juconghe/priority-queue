@@ -1,0 +1,3 @@
+FrenchPress 1.4 feedback for JAbstractArrayHeap.java
+
+Good work!  FrenchPress found no flaws in your code.
